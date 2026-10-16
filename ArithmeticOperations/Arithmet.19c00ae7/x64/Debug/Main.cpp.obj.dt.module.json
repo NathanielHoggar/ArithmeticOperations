@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Arithmet.19c00ae7\\x64\\Debug\\Main.obj",
+            "outputs": [
+                "Arithmet.19c00ae7\\x64\\Debug\\Main.cpp.obj.dt.module.json",
+                "Arithmet.19c00ae7\\x64\\Debug\\Main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
